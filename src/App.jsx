@@ -19,7 +19,7 @@ const whyCards = [
     icon: Boxes,
   },
   {
-    title: "7×24 Rapid Response",
+    title: "7×24 Response",
     icon: Clock3,
   },
   {
@@ -47,7 +47,6 @@ function Header() {
       <nav className="nav" aria-label="Main navigation">
         <a href="#about">ABOUT UVMARK</a>
         <a href="#products">PRODUCTS & SERVICES</a>
-        <a href="#cases">CASE STUDIES</a>
         <a href="#contact">CONTACT</a>
       </nav>
     </header>
