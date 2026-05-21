@@ -116,19 +116,6 @@ function WhatWeFocus() {
   );
 }
 
-function CaseStudiesPlaceholder() {
-  return (
-    <section className="caseStrip" id="cases">
-      <div>
-        <p className="eyebrow">CASE STUDIES</p>
-        <h2>Application stories coming soon.</h2>
-      </div>
-      <p>
-        Cryogenic sample identification, clinical research labeling, and small-batch biotech workflows.
-      </p>
-    </section>
-  );
-}
 
 function Contact() {
   return (
