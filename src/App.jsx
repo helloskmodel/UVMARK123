@@ -75,8 +75,7 @@ function WhyUVMARK() {
     <section className="section" id="about">
       <div className="sectionHeader">
         <p className="eyebrow">WHY UVMARK</p>
-        <h2>Built for flexibility, speed, and digital workflows.</h2>
-      </div>
+        </div>
 
       <div className="whyGrid">
         {whyCards.map((card) => {
@@ -100,8 +99,7 @@ function WhatWeFocus() {
     <section className="section focusSection" id="products">
       <div className="sectionHeader">
         <p className="eyebrow">WHAT WE FOCUS</p>
-        <h2>Labeling materials, systems, and services for laboratory operations.</h2>
-      </div>
+        </div>
 
       <div className="focusGrid">
         {focusItems.map((item) => {
