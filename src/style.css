@@ -183,7 +183,7 @@ a {
 .contact h2 {
   margin: 0;
   color: var(--navy);
-  font-size: clamp(24px, 2.6vw, 34px);
+  font-size: clamp(28px, 2.6vw, 34px);
   line-height: 1.08;
   letter-spacing: -0.035em;
   font-weight: 600;
