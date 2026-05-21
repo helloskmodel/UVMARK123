@@ -127,12 +127,10 @@ a {
   text-transform: uppercase;
 }
 
-.hero h1 {
-  margin: 0;
-  color: var(--navy);
-  font-size: clamp(24px, 3vw, 34px);
+hero h1 {
+  font-size: clamp(22px, 2.6vw, 30px);
   line-height: 1.08;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.035em;
   font-weight: 600;
 }
 
