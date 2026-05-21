@@ -145,7 +145,6 @@ export default function App() {
       <Hero />
       <WhyUVMARK />
       <WhatWeFocus />
-      <CaseStudiesPlaceholder />
       <Contact />
     </main>
   );
